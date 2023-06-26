@@ -1,0 +1,56 @@
+@media screen and (max-width: 1300px) {
+    body {
+        padding: auto;
+        margin: auto;
+        overflow: scroll;
+        width: 100%;
+        min-height: 100%;
+        background-color: #ffffff;
+    }
+
+    main {
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+        width: 100%;
+        min-height: 100%;
+        display: block;
+    }
+
+    .yahoo {
+        width: 100%;
+        height: auto;
+    }
+
+    .anchors {
+        width: 100%;
+        height: auto;
+    }
+
+    .aside {
+        display: none;
+    }
+
+    .main {
+        display: block;
+    }
+
+    .sub2 {
+        display: block;
+        justify-content: center;
+    }
+
+    .sub2 img {
+        padding: 0px 0px 5px 0px;
+    }
+
+    .list {
+        display: block;
+        justify-content: center;
+    }
+
+    .fooy {
+        width: 100%;
+        height: auto;
+    }
+}
